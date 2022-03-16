@@ -1,0 +1,16 @@
+name: "Baby Exploration Project"
+navbar:
+  title: '<div><img src="img/Berp_Logo.png"></img>&emsp;Baby Exploration Project</div>'
+#  left:
+#    - text: "main"
+#      href: main.html
+#    - text: "details"
+#      href: details.html
+output_dir: "docs"
+output:
+  html_document:
+    title: "Baby Exploration Project"
+    theme: lumen
+    highlight: textmate
+    css: css/play.css
+

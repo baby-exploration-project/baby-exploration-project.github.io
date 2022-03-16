@@ -1,0 +1,95 @@
+.bluebg { 
+  background-color:#e6f0ff; 
+  border-radius: 5px; 
+  padding: 10px;
+}
+
+.img1000 {
+  max-width: 1000px;
+  margin: 0;
+  text-align: left; 
+}
+
+.imgheight {
+  height: 50px;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  background-color: #669966;
+  
+}
+
+.play-table td { 
+		vertical-align: middle; 
+		padding: 5pt 5pt 5pt 5pt; 
+		border: solid #cccccc 1pt; 
+		font-size: 10pt; 
+		font-family: Arial; 
+	}
+
+.reveal section p {
+  color: green;
+}
+
+.videobuttons {
+  display: inline-block;
+  width: 100px;
+  height:50px;
+  margin: 1em;
+}
+
+a {
+  color: #669966;
+}
+
+h3 {
+  color: #669966;
+}
+
+h5 {
+  font-weight:bold;
+}
+
+indent {
+  padding-left:2em;
+}
+
+p-small {
+  font-size: 90%;
+  line-height: 150%;
+}
+
+p, td {
+  font-size: 120%;
+}
+
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+say {
+  font-size: 90%;
+  font-style: italic;
+  color:#4a86e8;
+  quotes: "“" "”" "‘" "’";
+}
+say:before { content: open-quote; }
+say:after  { content: close-quote; }
+
+say-es {
+  font-size: 90%;
+  font-style: italic;
+  color:#ff7f40;
+  quotes: "“" "”" "‘" "’";
+}
+say-es:before { content: open-quote; }
+say-es:after  { content: close-quote; }
+
+table { table-layout: fixed; }
+th {
+  font-size: 110%;
+}

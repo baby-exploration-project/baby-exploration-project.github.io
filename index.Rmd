@@ -1,0 +1,143 @@
+---
+title: " "
+output:
+ html_document:
+    toc: false
+---
+
+<center>
+
+<h1 style="font-size:150%;color:purple;">
+
+Baby Exploration Project
+
+</h1>
+
+</center>
+
+<p style="font-size:100%;font-family:Arial;">
+
+<br> We are researchers at Purdue University and New York University interested in how infants explore the home environment. Families near West Lafayette-Lafayette, IN and the greater New York City area will be able to participate in this exciting study! Experienced researchers will visit your home and record what happens in your everyday life. As babies acquire new skills such as manipulating objects, sitting, crawling, standing, and walking, they gain greater access to their home environment. Greater access, in turn, provides babies with new opportunities for learning about objects, places, and surfaces. At the same time, greater access can expose babies to potential hazards such as windows, stairs, and cleaning products. With your help, we will understand how babies' changing skills affect their exploration and access to the home environment during natural everyday activity.
+
+</p>
+
+<br>
+
+<video width="100%" controls>
+
+<source src="img/Dust_Website.mp4" type="video/mp4">
+
+</video>
+
+<br>
+
+<h1 style="font-size:150%;color:purple;">
+
+What families can expect
+
+</h1>
+
+<p style="font-size:100%;">
+
+-   <p>
+
+    One two-hour home visit
+
+    </p>
+
+-   <p>
+
+    A researcher will video record you and your baby as you go about your daily activities
+
+    </p>
+
+-   <p>
+
+    The researcher will ask you questions about your baby, family and home
+
+    </p>
+
+-   <p>
+
+    Videos and questionnaire data will be stored in a secure digital library that is accessible only to researchers
+
+    </p>
+
+
+<h1 style="font-size:150%;font-family:Arial;color:purple;">
+
+COVID-19 Protections
+
+</h1>
+
+<p style="font-size:100%;">
+
+<p>
+
+Researchers abide by the following protections:
+
+</p>
+
+<p>
+
+-   We are *fully vaccinated*
+
+</p>
+
+<p>
+
+-   We will wear a *mask* at all times
+
+</p>
+
+<p>
+
+-   We will not physically interact with you or your child
+
+</p>
+
+
+Before and after each home visit, researchers sanitize everything brought into a home.
+
+</p1>
+
+<h1 style="font-size:150%;font-family:Arial;color:purple;">
+
+Sign up and be a part of something big
+
+</h1>
+
+<p style="font-size:100%;">
+
+::: img1000
+We'd love for you and your child to participate! If you are interested, please contact us via [email](mailto:nyuactionlab@gmail.com) for New York area and [email](mailto:motordevlab@purdue.edu) for Lafeyette area.
+:::
+
+</p>
+
+<h1 style="font-size:150%;font-family:Arial;color:purple;">
+
+Participating universities and support
+
+</h1>
+
+```{r child = 'univs.Rmd'}
+```
+
+<h1 style="font-size:150%;font-family:Arial;color:purple;">
+
+Additional Information for Parents
+
+</h1>
+
+[An Hour in the Life](https://www.anhourinthelife.org/)
+
+[NYU Infant Action Lab](https://www.nyuactionlab.com/){.uri}
+
+[Purdue Motor Development Lab](https://www.purdue.edu/hhs/hk/Biomechanics-MotorBehavior/research/motor-development/){.uri}
+
+[CDC Information Website for Parents](https://www.cdc.gov/parents/infants/index.html){.uri}
+
+[What Is Dust? And Where Does It All Come From?](https://getpocket.com/explore/item/what-is-dust-and-where-does-it-all-come-from?utm_source=pocket-newtab){.uri}
+
+[Newborns Exposed to Dirt, Dander and Germs May Have Lower Allergy and Asthma Risk](https://www.hopkinsmedicine.org/news/media/releases/newborns_exposed_to_dirt_dander_and_germs_may_have_lower_allergy_and_asthma_risk){.uri}

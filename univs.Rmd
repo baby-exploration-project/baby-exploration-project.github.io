@@ -1,0 +1,17 @@
+
+<table width=900>
+<tr>
+<td>&ensp;&ensp;&nbsp;<img src="img/logos/NYU_Logo.png" width=90 height=105, title="New York University">
+<td><img src="img/logos/purdue_logo.png" width=110 height=90, title="Purdue University">
+<td><img src="img/logos/Epa_Logo.png" width=230 height=140, title="EPA">
+</tr>
+<tr>
+<td> &nbsp;
+</tr>
+<tr>
+</table>
+<table width=900>
+<tr>
+<td>[New York University](mailto:nyuactionlab@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Purdue University](mailto:motordevlab@purdue.edu)
+</table>
+
